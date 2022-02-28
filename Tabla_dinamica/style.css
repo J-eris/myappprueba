@@ -1,0 +1,25 @@
+#general {
+    text-align: center;
+}
+
+#formulario {
+    background-color: rgb(224, 145, 145);
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.tableForm table {
+    margin: 10px auto;
+    border-collapse: collapse;
+}        
